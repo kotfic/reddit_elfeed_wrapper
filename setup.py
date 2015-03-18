@@ -9,6 +9,6 @@ setup(
     py_modules=['reddit_wrapper'],
     entry_points={
         "console_scripts": [
-            "elfeed_wrapper = reddit_wrapper.app:main"
+            "elfeed_wrapper = reddit_elfeed_wrapper.app:main"
         ]
     })

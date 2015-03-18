@@ -1,3 +1,4 @@
 *.pyc
 *~
 reddit_elfeed_wrapper/config.py
+/reddit_wrapper.egg-info/
