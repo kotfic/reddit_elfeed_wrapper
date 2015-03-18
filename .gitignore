@@ -1,0 +1,3 @@
+*.pyc
+*~
+reddit_elfeed_wrapper/config.py
